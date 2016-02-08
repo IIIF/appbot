@@ -1,0 +1,8 @@
+{
+  "iiif": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "iiif/iiif.io",
+    "environments": ["production"]
+  }
+}
