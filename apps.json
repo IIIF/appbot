@@ -4,5 +4,11 @@
     "auto_merge": false,
     "repository": "iiif/iiif.io",
     "environments": ["production"]
+  },
+  "appbot": {
+    "provider": "capistrano",
+    "auto_merge": false,
+    "repository": "iiif/appbot",
+    "environments": ["production"]
   }
 }
